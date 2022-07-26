@@ -12,4 +12,5 @@
 - sklearn,
 - lightgbm,
 - catboost,
-- matplotlib
+- matplotlib,
+- statsmodels
